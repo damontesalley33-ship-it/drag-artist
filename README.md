@@ -27,11 +27,11 @@ Currently, I'm a <strong>Computer Science major</strong> and I want to take the 
 </ul>
 
 <h2>Something I Like</h2>
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=%2f5WE7QqO&id=6E679CA70313FE2C356B1969584A973D3C472898&thid=OIP._5WE7QqOLBrAmQ893RNqfwHaLG&mediaurl=https%3a%2f%2fcdn.wallpapersafari.com%2f67%2f89%2fp0UPFw.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.ff9584ed0a8e2c1ac0990f3ddd136a7f%3frik%3dmChHPD2XSlhpGQ%26pid%3dImgRaw%26r%3d0&exph=700&expw=467&q=sean+taylor&FORM=IRPRST&ck=3326181E575BE83B333BD7BFF50D105D&selectedIndex=54&itb=0"
+<img src="img_1728.jpeg"
 alt="NBA youngboy" width="200">
 
 <h2>Favorite Website</h2>
-<p>One of my favorite websites is <a href="https://www.bing.com/images/search?view=detailV2&ccid=%2f5WE7QqO&id=6E679CA70313FE2C356B1969584A973D3C472898&thid=OIP._5WE7QqOLBrAmQ893RNqfwHaLG&mediaurl=https%3a%2f%2fcdn.wallpapersafari.com%2f67%2f89%2fp0UPFw.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.ff9584ed0a8e2c1ac0990f3ddd136a7f%3frik%3dmChHPD2XSlhpGQ%26pid%3dImgRaw%26r%3d0&exph=700&expw=467&q=sean+taylor&FORM=IRPRST&ck=3326181E575BE83B333BD7BFF50D105D&selectedIndex=54&itb=0" target="_blank">Nordstrom</a> — !</p>
+<p>One of my favorite websites is <a href="https://www.nordstrom.com/" target="_blank">Nordstrom</a> — !</p>
 
 </body>
 </html>
